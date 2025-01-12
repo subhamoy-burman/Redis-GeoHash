@@ -29,5 +29,7 @@ This project demonstrates how to use Redis GeoHash for efficient geospatial inde
 
 ### Step 3: Install Redis
 
-Install-Package StackExchange.Redis -Version 2.8.24
+In your Visual Studio package manager install redis. 
+ ```shell
+Install-Package StackExchange.Redis 
 
